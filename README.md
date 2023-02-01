@@ -5,4 +5,7 @@ Some description!
 ## Subheader
 
 Watch tutorial on YouTube.
-main or master?
+
+## Local development
+
+1. Open index.html in your browser
